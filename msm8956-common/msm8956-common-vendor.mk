@@ -355,7 +355,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/sensor_calibrate.so:system/vendor/lib64/sensor_calibrate.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so \
     vendor/xiaomi/msm8956-common/proprietary/bin/energy-awareness:system/bin/energy-awareness \
-    vendor/xiaomi/msm8956-common/proprietary/bin/iop:system/bin/iop \
+    vendor/xiaomi/msm8956-common/proprietary/vendor/bin/iop:system/vendor/bin/iop \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libqti-iop-client.so:system/vendor/lib/libqti-iop-client.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libqti-iop-client.so:system/vendor/lib64/libqti-iop-client.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libqti-wl.so:system/vendor/lib/libqti-wl.so \
