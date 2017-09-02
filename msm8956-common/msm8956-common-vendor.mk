@@ -361,7 +361,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libqti-wl.so:system/vendor/lib/libqti-wl.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libqti-wl.so:system/vendor/lib64/libqti-wl.so \
     vendor/xiaomi/msm8956-common/proprietary/lib/libcutils.so:system/lib/libcutils.so \
-    vendor/xiaomi/msm8956-common/proprietary/lib64/libcutils.so:system/lib64/libcutils.so 
+    vendor/xiaomi/msm8956-common/proprietary/lib64/libcutils.so:system/lib64/libcutils.so \
+    vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libqti-iop.so:system/vendor/lib/libqti-iop.so \
+    vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libqti-iop.so:system/vendor/lib64/libqti-iop.so 
 
 
 PRODUCT_PACKAGES += \
