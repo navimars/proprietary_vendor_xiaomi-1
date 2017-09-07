@@ -367,15 +367,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8956-common/proprietary/bin/qcom-system-daemon:system/bin/qcom-system-daemon \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libsubsystem_control.so:system/vendor/lib/libsubsystem_control.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libsubsystem_control.so:system/vendor/lib64/libsubsystem_control.so \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile200.conf:system/vendor/etc/perf-profile200.conf \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile210.conf:system/vendor/etc/perf-profile210.conf \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile250.conf:system/vendor/etc/perf-profile250.conf \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile251.conf:system/vendor/etc/perf-profile251.conf \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile252.conf:system/vendor/etc/perf-profile252.conf \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile550.conf:system/vendor/etc/perf-profile550.conf \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile551.conf:system/vendor/etc/perf-profile551.conf \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile552.conf:system/vendor/etc/perf-profile552.conf \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/etc/perf-profile553.conf:system/vendor/etc/perf-profile553.conf \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libqti-at.so:system/vendor/lib/libqti-at.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libqti-gt.so:system/vendor/lib/libqti-gt.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libqti-at.so:system/vendor/lib64/libqti-at.so \
