@@ -370,9 +370,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libqti-at.so:system/vendor/lib/libqti-at.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib/libqti-gt.so:system/vendor/lib/libqti-gt.so \
     vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libqti-at.so:system/vendor/lib64/libqti-at.so \
-    vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libqti-gt.so:system/vendor/lib64/libqti-gt.so 
-
-
+    vendor/xiaomi/msm8956-common/proprietary/vendor/lib64/libqti-gt.so:system/vendor/lib64/libqti-gt.so \ 
+    vendor/xiaomi/msm8956-common/proprietary/etc/sensors/hals.conf:system/etc/sensors/hals.conf \
+    vendor/xiaomi/msm8956-common/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf
+ 
 
 
 
